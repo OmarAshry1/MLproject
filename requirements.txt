@@ -6,4 +6,6 @@ matplotlib
 scikit-learn
 catboost
 dill
+xgboost
+Flask
 -e .
